@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
-const mahaShivratri = '18 february 2023';
+const mahaShivratri = '8 march 2024';
 
 function countdown() {
     const mahaShivratriDate = new Date(mahaShivratri);
